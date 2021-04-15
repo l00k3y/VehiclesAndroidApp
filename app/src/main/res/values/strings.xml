@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VehiclesDB</string>
+    <string name="vehicle_id">Vehicle ID</string>
+    <string name="model">Model</string>
+    <string name="make">Make</string>
+    <string name="year">Year</string>
+    <string name="price">Price</string>
+    <string name="license_number">Registration</string>
+    <string name="colour">Colour</string>
+    <string name="number_doors">Number of Doors</string>
+    <string name="transmission">Transmission</string>
+    <string name="mileage">Mileage</string>
+    <string name="fuel_type">Fuel Type</string>
+    <string name="engine_size">Engine Size</string>
+    <string name="body_style">Body Style</string>
+    <string name="condition">Condition</string>
+    <string name="notes">Notes</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add Vehicle</string>
+</resources>
